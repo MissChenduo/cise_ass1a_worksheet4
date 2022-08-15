@@ -1,12 +1,12 @@
 const SEPractices = [
   {
     id: 1,
-    practice: 'TDD',
+    practice: "TDD",
   },
   {
     id: 2,
-    practice: 'Mob programming',
+    practice: "Mob programming",
   },
- 
 ];
+
 export default SEPractices;
