@@ -23,3 +23,4 @@ const Styles=styled.div ` table {
     }
 }
 `
+export default Styles;
